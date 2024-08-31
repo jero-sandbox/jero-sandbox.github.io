@@ -1,0 +1,7 @@
+node_modules
+build
+scss
+.env.local
+
+/.vscode
+*.ai
