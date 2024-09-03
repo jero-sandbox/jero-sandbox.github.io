@@ -1,3 +1,8 @@
+.header {
+  background: url(../img/web-bg.jpg) center center no-repeat;
+  background-size: cover;
+}
+
 body {
   background-color: rgb(238, 238, 229);
 }
